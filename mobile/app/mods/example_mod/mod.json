@@ -1,0 +1,9 @@
+{
+  "id": "example_mod",
+  "name": "Crystal Example",
+  "version": "1.0.0",
+  "author": "AFTERLIGHT",
+  "description": "Adds crystals, a crystal sword, glowing crystal clusters and several event hooks. Use it as a template for your own mods.",
+  "api_version": 1,
+  "enabled": true
+}
